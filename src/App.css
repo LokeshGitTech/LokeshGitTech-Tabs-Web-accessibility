@@ -1,0 +1,15 @@
+.tab-list-class {
+  border-bottom: 1px solid yellow;
+}
+
+.tab-panel-class {
+  padding: 10px;
+}
+
+.tab-class {
+  cursor: crosshair;
+} 
+
+.active-tab-class {
+  border-bottom: 2px solid pink;
+}
